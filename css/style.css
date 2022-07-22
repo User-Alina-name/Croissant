@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(241, 176, 255, 0.452);
+}
+
+h1,
+h3,
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.248);
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  margin: 10px;
+}
